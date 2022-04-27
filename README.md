@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ikaler
 - 👀 I’m interested in PHP web development and iOS/Android mobile development
-- 🌱 I’m currently learning/working Combine in Swift.
-- 💞️ I’m looking to collaborate on all sorts of project work.
+- 🌱 I’m currently learning/working with Combine in Swift.
+- 💞️ I’m looking to collaborate on all sorts of projects.
 - 📫 How to reach me 🤔
 
 <!---
